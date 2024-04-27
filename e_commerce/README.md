@@ -1,3 +1,1 @@
-# flutter_advanced_dev
-
-A new Flutter project.
+A Flutter project.
